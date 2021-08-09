@@ -1,7 +1,7 @@
 <div align="center">
 raashii & joker ser
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/XjDC6sP/IMG-20210731-WA0008.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuO3vOIY4ZR_k0Fu84hyrf_HA2HpNlM-UFKw&usqp=CAU" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Zara" src="https://img.shields.io/badge/-Zara-blue?&style=for-the-badge"></a>
 </p>
