@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('marvel working! 😍')
+            chalk.green.bold('Joker working! 😈')
         );
     });
     
@@ -240,7 +240,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ Marvel~_____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ Joker~_____🕊️♥️~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
