@@ -64,6 +64,8 @@ Coded By *Joker ser & raashii*
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 ■□■□■□■□𝐙𝐀𝐑𝐀■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -mmpack 
+🍙𝙐𝙨𝙚➜ It sends list of meme.
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
 🍙𝙐𝙨𝙚➜ It sends a random joke.
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -gaymeter
@@ -161,7 +163,31 @@ Coded By *Joker ser & raashii*
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zxmas «yourtext»
 🍙𝙐𝙨𝙚➜  its send text to image
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -lwolf «yourtext»
-🍙𝙐𝙨𝙚➜  its send text to image 
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zglass «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -rglogo1 «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -rglogo2 «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zninja «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zpaint «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zavatar1 «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zavatar2 «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zavatar3 «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zmetal «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zholo «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zwall «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
+➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -zanony «yourtext»
+🍙𝙐𝙨𝙚➜  its send text to image
 ■□■□■𝐙𝐀𝐑𝐀□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
