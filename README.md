@@ -26,7 +26,6 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> & <a href="h
   <p align="center">
   <a href="httsp://github.com/Raashii/Zara">
     <img src="https://img.shields.io/github/repo-size/Raashii/Zara?color=green&label=Repo%20total%20size&style=plastic">
-    <img src="https://img.shields.io/github/forks/Raashii/Zara?style=social">
 <p align="center">
 <a href="https://github.com/Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Raashii?color=blue&style=flat-square"></a>
 <a href="https://github.com/Raashii/Zara/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Raashii/Zara?color=blue&style=flat-square"></a>
